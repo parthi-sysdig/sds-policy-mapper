@@ -12,6 +12,8 @@ import (
 	"github.com/pkg/browser"
 )
 
+//test 
+
 var version = "v0.1.0"
 
 func main() {
